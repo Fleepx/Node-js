@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "nombre": "Hide",
+    "edad": "4 años",
+    "tipo": "perro",
+    "color": "blanco",
+    "enfermedad": "otitis"
+  },
+  {
+    "nombre": "Gaspar",
+    "edad": "3 años",
+    "tipo": "perro",
+    "color": "manchas",
+    "enfermedad": "fractura"
+  }
+]
